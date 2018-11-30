@@ -1,0 +1,11 @@
+/Users/damian/code/learning/myApp/bin/Debug/netcoreapp2.1/myApp.deps.json
+/Users/damian/code/learning/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.json
+/Users/damian/code/learning/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.dev.json
+/Users/damian/code/learning/myApp/bin/Debug/netcoreapp2.1/myApp.dll
+/Users/damian/code/learning/myApp/bin/Debug/netcoreapp2.1/myApp.pdb
+/Users/damian/code/learning/myApp/obj/Debug/netcoreapp2.1/myApp.csprojAssemblyReference.cache
+/Users/damian/code/learning/myApp/obj/Debug/netcoreapp2.1/myApp.csproj.CoreCompileInputs.cache
+/Users/damian/code/learning/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfoInputs.cache
+/Users/damian/code/learning/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfo.cs
+/Users/damian/code/learning/myApp/obj/Debug/netcoreapp2.1/myApp.dll
+/Users/damian/code/learning/myApp/obj/Debug/netcoreapp2.1/myApp.pdb
